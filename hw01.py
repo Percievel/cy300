@@ -14,7 +14,7 @@ File Name: hw01.py
 
 # Problem 1 (5 pts):  ##define your display_sum procedure below this line.
 def display_sum(a,b):
-    print(f"Sum is: {a+b}")
+    print(f'Sum is: {a+b}')
 
 # Problem 2 (5 pts):  ##define your get_next_hour function below this line.
 def get_next_hour(h):
